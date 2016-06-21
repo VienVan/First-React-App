@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './src/client.js',
+  entry: './src/js/client.js',
   output: {
     path: __dirname,
     filename: 'client.min.js'
